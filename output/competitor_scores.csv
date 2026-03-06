@@ -1,0 +1,6 @@
+company,api_docs,transparent_pricing,subscription_billing,fraud_tools,developer_tools,pos_support,global_payments,ease_of_integration,notes,weighted_score,rank
+Stripe,5,5,5,4,5,2,5,5,Excellent APIs and developer tooling,4.75,1
+Adyen,4,3,4,5,4,4,5,4,Strong enterprise and global payments footprint,4.05,2
+PayPal,4,4,4,4,4,2,5,4,Trusted brand with broad payment coverage,3.95,3
+Block/Square,4,4,3,3,4,5,3,4,Strong SMB and POS ecosystem,3.8,4
+Fiserv,3,2,3,4,3,5,4,3,"Strong enterprise/payment infrastructure, less developer-friendly than Stripe",3.15,5
