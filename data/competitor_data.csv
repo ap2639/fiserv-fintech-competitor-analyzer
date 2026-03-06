@@ -1,6 +1,6 @@
 company,api_docs,transparent_pricing,subscription_billing,fraud_tools,developer_tools,pos_support,global_payments,ease_of_integration,notes
-Fiserv,3,2,3,4,3,5,4,3,"Strong enterprise/payment infrastructure, less developer-friendly than Stripe"
-Stripe,5,5,5,4,5,2,5,5,"Excellent APIs and developer tooling"
-PayPal,4,4,4,4,4,2,5,4,"Trusted brand with broad payment coverage"
-Block/Square,4,4,3,3,4,5,3,4,"Strong SMB and POS ecosystem"
-Adyen,4,3,4,5,4,4,5,4,"Strong enterprise and global payments footprint"
+Fiserv,3,2,3,4,3,5,4,3,"Strong payment infrastructure and POS capabilities, but less developer-friendly than API-first competitors"
+Stripe,5,5,5,4,5,2,5,5,"Strong API ecosystem, transparent pricing, and highly accessible developer onboarding"
+PayPal,4,4,4,4,4,2,5,4,"Broad payment coverage and trusted brand with solid developer accessibility"
+Block/Square,4,4,3,3,4,5,3,4,"Strong POS and SMB ecosystem with good developer usability"
+Adyen,4,3,4,5,4,4,5,4,"Strong enterprise-grade payments platform with global coverage and risk tooling"
